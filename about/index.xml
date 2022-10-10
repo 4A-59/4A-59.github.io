@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on 4A-59&#39;s Blog</title>
+    <link>https://4a-59.github.io/about/</link>
+    <description>Recent content in Abouts on 4A-59&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Oct 2022 18:57:23 +0800</lastBuildDate><atom:link href="https://4a-59.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://4a-59.github.io/about/about/</link>
+      <pubDate>Sun, 09 Oct 2022 18:57:23 +0800</pubDate>
+      
+      <guid>https://4a-59.github.io/about/about/</guid>
+      <description>About me &amp;amp; my site I , A student who lost , And this site is the place which I record the path I walked .</description>
+    </item>
+    
+  </channel>
+</rss>
